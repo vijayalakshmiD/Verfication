@@ -23,7 +23,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "./assets/now-ui-dashboard.scss",
+          "./assets/demo.css"
             ],
             "scripts": []
           },
